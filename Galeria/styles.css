@@ -17,3 +17,27 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+
+
+
+h1 {
+    font-size: 64px;
+    color: #ff4500;
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: "Arial", sans-serif;
+  }
+  
+  
+  h2 {
+    font-size: 40px;
+    color: #4b0082;
+    text-align: left;
+    margin-top: 20px;
+    font-family: "Helvetica", sans-serif;
+    text-transform: uppercase;
+    border-bottom: 4px solid #4b0082;
+    padding-bottom: 8px;
+  }
+  
