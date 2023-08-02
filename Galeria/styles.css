@@ -44,3 +44,14 @@ h1 {
     border-bottom: 4px solid #8300e0;
     padding-bottom: 8px;
   }
+
+
+  a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #0056b3;
+}
