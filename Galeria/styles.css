@@ -43,4 +43,11 @@ h1 {
     text-transform: uppercase;
     border-bottom: 4px solid #8300e0;
     padding-bottom: 8px;
+    background-color: #ff4500;
+
   }
+  p {
+    color: white;
+    background-color: black;
+  }
+
