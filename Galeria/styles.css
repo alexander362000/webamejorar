@@ -5,13 +5,14 @@ body {
 .image{
     border: 5px solid green;
     border-radius: 10px;
+    width: 400px;
     height: 400px;
     display: flex;
     justify-content: center;
     text-align: center;
 }
 
-.link-button {
+.link-button{
     text-decoration: none;
     color: black;
     border: 1px solid gray;
@@ -20,9 +21,6 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
-
-
-
 
 h1 {
     font-size: 64px;
