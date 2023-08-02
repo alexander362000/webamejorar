@@ -56,3 +56,7 @@ h1 {
 a:hover {
     color: #0056b3;
 }
+
+.sombra{
+    text-shadow: black 0 -2px;
+}
