@@ -46,6 +46,13 @@ h1 {
     padding-bottom: 8px;
   }
 
-  .sombra{
-    text-shadow: rgba(0, 0, 0, 0.555) 0 -2px;
-  }
+
+  a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #0056b3;
+}
