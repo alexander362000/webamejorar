@@ -1,5 +1,6 @@
 body {
     background-color: rgb(66, 66, 66);
+    background-image: url(board.jpg);
 }
 
 .image{
@@ -50,4 +51,19 @@ h1 {
     color: white;
     background-color: black;
   }
+
+
+  a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+.sombra{
+    text-shadow: black 0 -2px;
+}
 
